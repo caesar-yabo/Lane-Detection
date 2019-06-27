@@ -9,3 +9,5 @@ tusimple DataSet：
 
 LaneNet + H-Net解读：https://www.jianshu.com/p/c6d38d648509
 
+https://ieeexplore.ieee.org/document/7734016
+
