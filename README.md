@@ -14,3 +14,5 @@ https://ieeexplore.ieee.org/document/7734016
 车道线检测调研：https://blog.csdn.net/soulmeetliang/article/details/89398412
 
 http://www.zhuanzhi.ai/topic/2001319504370995/awesome
+
+论文合集：<http://homes.esat.kuleuven.be/~konijn/publications/pub.html#tag2017
