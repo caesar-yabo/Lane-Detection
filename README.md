@@ -25,4 +25,8 @@ CULane DataSet:https://xingangpan.github.io/projects/CULane.html
 
 http://www.cvlibs.net/datasets/kitti/eval_road.php
 
+(Mask RCNN)——论文详解(真的很详细) https://blog.csdn.net/wangdongwei0/article/details/83110305
+
+实例分割模型Mask R-CNN详解：从R-CNN，Fast R-CNN，Faster R-CNN再到Mask R-CNN  https://blog.csdn.net/jiongnima/article/details/79094159
+
 
